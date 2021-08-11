@@ -18,4 +18,4 @@
 
 # Reach me out at
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/misaelrezende)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/misaelrezende/)
+[<img src='https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-512.png' alt='github' height='40'>](https://github.com/misaelrezende)  [<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/misaelrezende/)
