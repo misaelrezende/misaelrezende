@@ -1,5 +1,9 @@
 # Hi there 👋
 
+<div align="right">
+    <a href="https://app.daily.dev/misaelrezende" target="_blank"><img src="https://raw.githubusercontent.com/misaelrezende/misaelrezende/master/devcard.svg" width="256" align="right" alt="Misael's Dev Card"/></a>
+</div>
+
 - I study Information Systems at Universidade Federal de Minas Gerais, aka UFMG
 - I'm currently doing undergraduate research at Smart Sense lab, in the field of Computer Vision
 - I'm interested in Computer Vision, Deep Learning, and Open Source software
@@ -18,4 +22,4 @@
 
 # Reach me out at
 
-[<img src='https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-512.png' alt='github' height='40'>](https://github.com/misaelrezende)  [<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/misaelrezende/)
+[<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/misaelrezende/)
